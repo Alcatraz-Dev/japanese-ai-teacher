@@ -2,8 +2,8 @@ import { Experience } from "@/components/Experience";
 
 export const metadata = {
   openGraph: {
-    title: "Sensei AI ",
-    description: "Learn Japanese with Sensei AI",
+    title: "Sensei AI Pro ",
+    description: "Learn Japanese with Sensei Ai Pro",
   },
 };
 export default function Home() {

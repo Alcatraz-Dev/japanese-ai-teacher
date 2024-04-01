@@ -54,7 +54,8 @@ export const MessagesList = () => {
         <div className="h-full w-full grid place-content-center text-center p-6">
           <h2 className="text-8xl font-bold text-white/90 italic ">
             <span className="text-lime-500">Sensei </span>
-            <span className="text-blue-500">AI</span>
+            <span className="text-orange-500">Ai </span>
+            <span className=" text-sky-500">Pro </span>
             <br />
             <span className="text-7xl mt-10">Japanese Language School</span>
           </h2>
